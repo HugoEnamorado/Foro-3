@@ -1,5 +1,5 @@
 {
-  "name": "@loopback/example-todo",
+  "name": "@loopback/example",
   "version": "3.9.2",
   "description": "Tutorial example on how to build an application with LoopBack 4",
   "main": "dist/index.js",
